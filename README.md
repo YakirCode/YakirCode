@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YakirCode
 - 👀 I’m interested in codeing
-- 🌱 I’m currently learning c#,phyton,assembly,CCNA,C++,HTML,JAVA SCRIPT,C,ROBY,GO,RUST AND MORE.
+- 🌱 I’m currently learning c#,phyton,assembly,CCNA,C++,HTML,JAVA SCRIPT,C,RUBY,GO,RUST AND MORE.
 - 💞️ I’m looking to collaborate on helping people code
 - 📫 How to reach me (coming soon)
 
